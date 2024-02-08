@@ -1,0 +1,18 @@
+//Get all AI models
+Endpoint: hostname/aimodels
+HTTP Method: GET
+
+//Get specific AI model
+Endpoint: hostname/aimodels/{modelId}
+HTTP Method: GET
+
+//Create new AI model
+Endpoint: hostname/aimodels
+HTTP Method: POST
+
+//Update existing AI model
+Endpoint: hostname/aimodels/{modelId}
+HTTP Method: PUT
+
+//Delete existing AI model
+Endpoint: hostname/aimodels/{modelId}
