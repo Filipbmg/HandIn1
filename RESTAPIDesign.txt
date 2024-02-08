@@ -16,3 +16,4 @@ HTTP Method: PUT
 
 //Delete existing AI model
 Endpoint: hostname/aimodels/{modelId}
+HTTP Method: DELETE
